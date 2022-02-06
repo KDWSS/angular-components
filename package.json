@@ -103,7 +103,7 @@
         "@commitlint/cli": "^8.1.0",
         "@commitlint/config-conventional": "^8.1.0",
         "@commitlint/core": "^8.1.0",
-        "@commitlint/prompt": "^8.1.0",
+        "@commitlint/prompt": "^14.0.0",
         "@compodoc/compodoc": "^1.1.10",
         "@octokit/rest": "^16.28.5",
         "@types/chalk": "^2.2.0",
