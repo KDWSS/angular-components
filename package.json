@@ -135,7 +135,7 @@
         "eslint-plugin-rxjs": "3.3.3",
         "eslint-plugin-sonarjs": "^0.8.0-125",
         "faker": "4.1.0",
-        "gh-pages": "2.0.1",
+        "gh-pages": "5.0.0",
         "glob": "^7.1.4",
         "husky": "2.3.0",
         "jasmine-axe": "^1.0.0",
